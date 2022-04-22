@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"float like a butterly, sting like a gee " - Al       o 
 Use the left arrow to go back!
